@@ -94,7 +94,7 @@ A CITATION.cff file is available in the repository root.
 ---
 
 ## 📬 Contact
-For any questions, please contact us: hrisiayagushova@yandex.ru
+For any questions please contact us: hrisiayagushova@yandex.ru
 
 ---
 
