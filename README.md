@@ -90,7 +90,6 @@ See the LICENSE file for details.
 If you use Matris in your research, please cite:
 
 Yagushova K.F., Fetisova A.S., Erofeeva M.N., Naidenko S.V. E. (2026). Matris: A tool for analyzing maternal and social behavior protocols.
-DOI: 10.5281/zenodo.xxxxxx
 
 A CITATION.cff file is available in the repository root.
 
