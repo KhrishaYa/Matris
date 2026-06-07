@@ -5,8 +5,6 @@ Created on Fri Aug 15 19:18:39 2025
 @author: KHRISYA YA
 """
 
-
-
 import os
 from datetime import datetime
 import openpyxl
@@ -14,12 +12,12 @@ from openpyxl.utils import get_column_letter
 from openpyxl import Workbook, load_workbook
 from openpyxl.styles import Alignment, Border, Side
 
-FOLDER_PATH = r"C:\Users\Lenovo\Desktop\Кошки 2024\пиздец" #УКАЖИТЕ ПУТЬ ДО ВАШЕЙ ПАПКИ (НЕ ДО ФАЙЛА!)
-RESULT_FILE = "итоговые_расчеты.xlsx" # ЗАМЕНИТЕ НА НАЗВАНИЕ ИТОГОВАОГО ФАЙЛА
-EXCEL_FILE = "итоговые_расчеты.xlsx" # ЗАМЕНИТЕ НА НАЗВАНИЕ ИТОГОВАОГО ФАЙЛА
-FILE_NAME = "итоговые_расчеты.xlsx"  # ЗАМЕНИТЕ НА НАЗВАНИЕ ИТОГОВАОГО ФАЙЛА
-SHEET_NAME = "Лист1"                 # НИЧЕГО НЕ МЕНЯТЬ
-SPECIES = "Lynx" # ПОМЕНЯТЬ НА ВИД ОБСЧИТЫВАЕМОГО ЖИВОТНОГО
+FOLDER_PATH = r"C:\Users\xxxxx\xxxxx\xxxxx\xxxx" # SPECIFY THE PATH TO YOUR FOLDER (NOT TO THE FILE!)
+RESULT_FILE = "xxxxxxx.xlsx" # REPLACE WITH THE WRITING OF THE OUTCOME FILE
+EXCEL_FILE = "xxxxxxxxx.xlsx" # REPLACE WITH THE WRITING OF THE OUTCOME FILE
+FILE_NAME = "xxxxxxxxxxx.xlsx"  # REPLACE WITH THE WRITING OF THE OUTCOME FILE
+SHEET_NAME = "Лист1"
+SPECIES = "Lynx" # CHANGE TO THE TYPE OF ANIMAL BEING COUNTED
 
 
 TARGET_CELLS_PART1 = ['L2']
