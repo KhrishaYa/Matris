@@ -1,8 +1,6 @@
-# -*- coding: utf-8 -*-
-"""
 Created on Fri Aug 15 19:18:39 2025
 
-@author: KHRISYA YA
+@author: KhrishaYa
 """
 
 import os
