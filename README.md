@@ -55,18 +55,16 @@ The protocol file (CSV or Excel) must contain the following columns:
 |actor |	str |	Individual performing the behavior |
 |behavior |	str |	Behavioral element |
 |duration |	float |	Duration (if applicable) |
-|group |	str (opt.) |	Group of the individual |
-
 ---
 
 ## 📊 Output Data Format
 The summary table (CSV/Excel) contains:
 
-|Group |	Frequency |	Total duration (s) |	Mean duration (s) |	Normalized frequency |
-|------|------------|--------------------|--------------------|----------------------|
-|mothers_with_pup |	45 |	1024.5 |	22.8 |	0.89 |
-|mothers_without_pup |	12 |	145.2 |	12.1 |	0.24 |
-|males |	8 |	69.6 |	8.7 |	0.16 |
+|Group |	Number of actions |	Duration of actions (s) |	Normalized frequency |
+|------|--------------------|-------------------------|----------------------|
+|group of animals |	45 |	1024.5  |	56.2 |
+|a specific animal |	12 |	145.2 |	21.8 |
+|pairs of animals |	8 |	69.6 |	10.9 |
 
 ---
 
