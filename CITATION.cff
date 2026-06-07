@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "If you use this software in your research, please cite it as below."
+authors:
+  - family-names: "Yagushova"
+    given-names: "Khrisiya"
+    affiliation: "Russian State Agrarian University — Moscow Timiryazev Agricultural Academy"
+  - family-names: "Fetisova"
+    given-names: "Alexandra"
+    affiliation: "Severtsov Institute of Ecology and Evolution of the Russian Academy of Sciences"
+  - family-names: "Erofeeva"
+    given-names: "Mariya"
+    affiliation: "Severtsov Institute of Ecology and Evolution of the Russian Academy of Sciences"
+  - family-names: "Naidenko"
+    given-names: "Sergey"
+    affiliation: "Severtsov Institute of Ecology and Evolution of the Russian Academy of Sciences"
+title: "Matris: A Python tool for analyzing maternal and social behavior protocols"
+version: 1.0.0
+date-released: 2026-06-04
+url: "https://github.com/KhrishaYa/matris"
+repository-code: "https://github.com/KhrishaYa/matris"
+type: software
+license: MIT
+keywords:
+  - ethology
+  - maternal behavior
+  - social behavior
+  - behavioral analysis
+  - python
