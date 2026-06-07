@@ -1,6 +1,6 @@
 Created on Sun Mar 17 04:19:53 2025
 
-@author: KRISYA YA
+@author: KhrishaYa
 """
 
 # IMPORTS AND BASIC INFORMATION
