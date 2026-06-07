@@ -1,4 +1,6 @@
-![Matris Logo](GitHub.png)
+<p align="center">
+  <img src="GitHub.png" width="150">
+</p>
 
 # Matris
 Matris is a Python-based software tool for automated analysis of ethological data collected during observations of maternal and social behavior.
