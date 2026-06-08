@@ -107,7 +107,7 @@ Matris, ethology, behavioral analysis, maternal behavior, social behavior, behav
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/matris.git
+git clone https://github.com/KhrishaYa/matris.git
 cd matris
 
 # Install dependencies
